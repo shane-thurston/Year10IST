@@ -12,9 +12,10 @@ StudentGrade = DecideGrade(StudentMark)
 print(StudentGrade)
 
 #Tasks:
-#1 - Complete DecideGrade
+#1 - Complete DecideGrade 70-84 Credit 85-100 Distinction
 #2 - Create a list of test data
 #3 - Loop through test data and check output
+#4 - authenticate valid marks through input
 
 StudentMarks = [12,55]
 for mark in StudentMarks:
