@@ -15,6 +15,6 @@ print(StudentGrade)
 #1 - Complete DecideGrade 70-84 Credit 85-100 Distinction
 #2 - Create a list of test data
 #3 - Loop through test data and check output
-#4 - authenticate valid marks through input
+#4 - authenticate valid marks through input, numbers and type eg print(type(grade))
 #5 - option to loop a set number of times. Return mark and feedback.
 
