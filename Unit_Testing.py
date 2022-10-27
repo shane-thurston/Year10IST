@@ -16,8 +16,5 @@ print(StudentGrade)
 #2 - Create a list of test data
 #3 - Loop through test data and check output
 #4 - authenticate valid marks through input
+#5 - option to loop a set number of times. Return mark and feedback.
 
-StudentMarks = [12,55]
-for mark in StudentMarks:
-  StudentGrade = DecideGrade(mark)
-  print(StudentGrade)
